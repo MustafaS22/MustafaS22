@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-portrait-wave.gif" alt="Hello, I’m Mustafa Sherwala. A silver-haired anime character waves hello." width="960">
+  <img src="./profile-pixel-banner.png" alt="Hello, I’m Mustafa Sherwala. A silver-haired pixel-art character waves hello." width="960">
 </p>
 
 <h3 align="center">Projects</h3>
