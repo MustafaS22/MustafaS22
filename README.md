@@ -2,8 +2,6 @@
   <img src="./profile-pixel-banner.png" alt="Hello, I’m Mustafa Sherwala. A silver-haired pixel-art character waves hello." width="960">
 </p>
 
-yo
-
 <h3 align="center">Projects</h3>
 
 <p align="center">
