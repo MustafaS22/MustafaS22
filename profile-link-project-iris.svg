@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="26" viewBox="0 0 106 26">
+  <path d="M3 .5H103V2.5H105.5V23.5H103V25.5H3V23.5H.5V2.5H3Z" fill="#404044" stroke="#66666a"/>
+  <text x="8" y="17" fill="#ffffff" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="700">Project IRIS</text>
+  <path d="M93 15.5l5-5m-5 0h5v5" fill="none" stroke="#ffffff" stroke-width="1"/>
+</svg>

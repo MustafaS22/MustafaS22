@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="26" viewBox="0 0 86 26">
+  <path d="M3 .5H83V2.5H85.5V23.5H83V25.5H3V23.5H.5V2.5H3Z" fill="#ededee" stroke="#acacb0"/>
+  <text x="8" y="17" fill="#2d2d31" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="700">Portfolio</text>
+  <path d="M73 15.5l5-5m-5 0h5v5" fill="none" stroke="#2d2d31" stroke-width="1"/>
+</svg>
